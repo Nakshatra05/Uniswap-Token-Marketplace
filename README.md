@@ -41,7 +41,7 @@ Uniswap-Token-Marketplace is designed to provide a simple and efficient way for 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Uniswap-Token-Marketplace.git
+    git clone https://github.com/Nakshatra05/Uniswap-Token-Marketplace.git
     ```
 
 2. Navigate to the project directory:
