@@ -9,7 +9,6 @@ Uniswap-Token-Marketplace is a decentralized application (dApp) that enables use
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
